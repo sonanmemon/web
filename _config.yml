@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sonan_pictures.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "He/Him"  
-  bio              : "I have a MPhil in Economics from Oxford University (2020) and accepted as a PhD Student at University of Oregon, Eugene, USA."
-  location         : "Constantly In Flux: Karachi, Hyderabad, Islamabad (Pakistan) and Potentially Eugene, Oregon (USA)"
+  bio              : "MPhil Econ (2020) from Oxford University and PhD Student at University of Oregon."
+  location         : "Constantly In Flux: Khi, Hyd and ISB, Pakistan."
   employer         : "PIDE (2021-2024) and IBA (2020-2021)"
   uri              : # URL
   email            : "sonanahmed8@gmail.com" 
