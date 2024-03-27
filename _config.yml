@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "sonan_pictures.jpg"
-  name             : "Your Sidebar Name"
+  name             : "SONAN MEMON"
   pronouns         : # example: "He/Him"  
   bio              : "MPhil Econ (2020) from Oxford University and PhD Student at University of Oregon."
-  location         : "Constantly In Flux: Khi, Hyd and ISB, Pakistan."
+  location         : "Karachi and Hyderabad, Pakistan"
   employer         : "PIDE (2021-2024) and IBA (2020-2021)"
   uri              : # URL
   email            : "sonanahmed8@gmail.com" 
@@ -33,9 +33,6 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.pk/scholar?hl=en&as_sdt=0%2C5&q=sonan+memon&btnG="
-  impactstory      : # URL
-  #orcid"http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Sonan-Memon-2"
 
   # Repositories and software development
@@ -48,30 +45,15 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/sonan.ahmed/"
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : ": https://www.instagram.com/sonanmemon/"
+  facebook         : Sonan Memon
+  instagram        : "https://www.instagram.com/sonanmemon/"
   lastfm           : # Username
   linkedin         : "https://pk.linkedin.com/in/sonan-memon"
-  mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
   twitter          : "https://twitter.com/sonan_memon?lang=en"
-  vine             : # Username
-  weibo            : # Username
   wikipedia        : # Username
-  xing             : # Username
   youtube          : "https://www.youtube.com/@sonanahmedmemon7404"
-  zhihu            : # URL
-
+  
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
